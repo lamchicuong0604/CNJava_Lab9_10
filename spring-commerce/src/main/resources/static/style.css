@@ -1,0 +1,93 @@
+.loginform{
+    width: 400px;
+    margin: auto;
+    margin-top: 20%;
+    -webkit-box-shadow: 0 0 5px #d9d9d9;
+    box-shadow: 0 0 5px #d9d9d9;
+    padding: 10px;
+}
+.inputlogin{
+    border: 1px solid #d9d9d9;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.inputlogin input{
+    border: none;
+}
+.inputlogin input:focus{
+    outline: none;
+}
+.btnlogin{
+    margin-left: 5%;
+    margin-top: 15px;
+    width: 20%;
+}
+.menu{
+    background-color: #000678;
+    height: 80px;
+    padding-left: 5%;
+    display: flex;
+}
+.logo{
+    color: #fff;
+    line-height: 80px;
+}
+.usermenu{
+    display: flex;
+    color: #fff;
+    margin-left: auto;
+    margin-right: 0;
+    padding-right: 5%;
+}
+.usermenu p{
+    line-height: 80px;
+    float: right;
+    margin-left: 15px;
+}
+.usermenu a{
+    color: #fff;
+    text-decoration: none;
+}
+.searchbox{
+    display: flex;
+}
+.searchm{
+    width: 80%;
+}
+.searchpro{
+    -webkit-box-shadow: 0 0 5px #d9d9d9;
+    box-shadow: 0 0 5px #d9d9d9;
+    width: 90%;
+    margin: auto;
+    padding-bottom: 20px;
+    margin-top: 60px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.inputsighn input, select{
+    border: none;
+    border-bottom: 1px solid #adadad;
+    width: 70%;
+}
+.inputsighn input:focus{
+    outline: none;
+}
+.listproduct{
+    -webkit-box-shadow: 0 0 10px #d9d9d9;
+    box-shadow: 0 0 10px #d9d9d9;
+    margin-right:15px;
+}
+.fa{
+    cursor: pointer;
+}
+.contentmodal{
+    padding: 30px;
+}
+.lbi{
+    margin-top: 20px;
+}
+.btninput{
+    margin-top: 30px;
+}
