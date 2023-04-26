@@ -14,21 +14,24 @@ To run this project, you need to have the following software installed on your m
 
 To install and run this project, follow these steps:
 
-1. Clone the project repository to your local machine using the following command: **git clone https://github.com/hellfive123/Final_JavaTech.git**
+1. Clone the project repository to your local machine using the following command: 
+
+**git clone https://github.com/hellfive123/Final_JavaTech.git**
 
 2. Navigate to the project directory: **cd Final_JavaTech**.
 
-3. Edit the application.properties file in the src/main/resources folder to match your MySQL database configuration.
-spring.datasource.url=jdbc:mysql://localhost:3306/webapp
-spring.datasource.username=your_database_username
-spring.datasource.password=your_database_password
+3. Create a database named **webapp**.
 
-4. Build the project using Maven: **mvn clean install**.
+4. Edit the application.properties file in the src/main/resources folder to match your MySQL database configuration:
+  **spring.datasource.url=jdbc:mysql://localhost:3306/webapp**
+  **spring.datasource.username=your_database_username**
+  **spring.datasource.password=your_database_password**
+  
+5. Build the project using Maven: **mvn clean install**.
 
-5. Run the project using Maven: **mvn spring-boot:run**.
+6. Run the project using Maven: **mvn spring-boot:run**.
 
-
-6. The project should now be running on `http://localhost:8080/`. You can access the web application by visiting this URL in your web browser.
+7. The project should now be running on `http://localhost:8080/login`. You can access the web application by visiting this URL in your web browser.
 
 ## Usage
 
