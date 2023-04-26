@@ -23,9 +23,9 @@ To install and run this project, follow these steps:
 3. Create a database named **webapp**.
 
 4. Edit the application.properties file in the src/main/resources folder to match your MySQL database configuration:
-  **spring.datasource.url=jdbc:mysql://localhost:3306/webapp**<br />
-  **spring.datasource.username=your_database_username**<br />
-  **spring.datasource.password=your_database_password**<br />
+  **spring.datasource.url=jdbc:mysql://localhost:3306/webapp<br />**
+  **spring.datasource.username=your_database_username<br />**
+  **spring.datasource.password=your_database_password<br />**
   
 5. Build the project using Maven: **mvn clean install**.
 
