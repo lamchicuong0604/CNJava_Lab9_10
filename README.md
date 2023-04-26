@@ -14,7 +14,7 @@ To run this project, you need to have the following software installed on your m
 
 To install and run this project, follow these steps:
 
-1. Clone the project repository to your local machine using the following command: 'git clone https://github.com/hellfive123/Final_JavaTech.git'.
+1. Clone the project repository to your local machine using the following command: "git clone https://github.com/hellfive123/Final_JavaTech.git".
 
 2. Navigate to the project directory: 'cd Final_JavaTech'.
 
