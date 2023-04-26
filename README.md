@@ -14,7 +14,7 @@ To run this project, you need to have the following software installed on your m
 
 To install and run this project, follow these steps:
 
-1. Clone the project repository to your local machine using the following command: 
+1. Clone the project repository to your local machine using the following command:
 
   **git clone https://github.com/hellfive123/Final_JavaTech.git**
 
@@ -33,18 +33,7 @@ To install and run this project, follow these steps:
 
 7. The project should now be running on `http://localhost:8080/login`. You can access the web application by visiting this URL in your web browser.
 
-## Usage
 
-Once you have the project up and running, you can use the web application to perform CRUD operations on the products in your MySQL database.
-
-1. To create a new product, click the "New Product" button on the homepage and fill out the form.
-2. To view all products, click the "All Products" button on the homepage.
-3. To update a product, click the "Edit" button next to the product you want to update and fill out the form.
-4. To delete a product, click the "Delete" button next to the product you want to delete.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
